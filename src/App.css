@@ -1,0 +1,164 @@
+.App-header {
+  background-color: #222;
+  height: 450px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.header-img {
+  position: center;
+  height: 300px;
+  width: 400px;
+}
+
+.column {
+  float: left;
+  margin-bottom: 0px;
+  margin-top: 30px;
+  width: 50%;
+}
+
+.column-3 {
+  float: right;
+  width: 30%;
+  padding-left: 0px;
+  margin-right: 100px;
+  margin-top: 50px;
+}
+
+.column-5 {
+  text-align: center;
+  height: 371px;
+  width: 480px;
+}
+
+.w-row {
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+.w-col {
+  position: relative;
+  float: left;
+  min-height: 1px;
+}
+
+.w-col-6 {
+  float: left;
+  width: 50%;
+}
+
+.w-col-4 {
+  float: left;
+  width: 320px;
+}
+
+.main-heading {
+  margin-top: 100px;
+  margin-bottom: 20px;
+  color: #ffffff;
+  font-size: 36px;
+  line-height: 44px;
+}
+
+.main-subtitle {
+  margin-bottom: 26px;
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 26px;
+  font-weight: 300;
+}
+
+.main-feature-group {
+  margin-top: 30px;
+}
+
+.btn {
+  display: inline-block;
+  margin-right: 14px;
+  padding: 13px 23px;
+  border-radius: 3px;
+  background-color: #70bf41;
+  box-shadow: 0 2px 1px 0 rgba(0, 0, 0, .12);
+  cursor: pointer;
+  font-family: Roboto, sans-serif;
+  color: #fff;
+  text-align: center;
+}
+
+.button-2 {
+  margin-top: 19px;
+  border-radius: 5px;
+  background-color: #70bf41;
+}
+
+a:hover {
+  background-color: #40E0D0;
+}
+
+.section {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  background-color: #ffffff;
+  height: 935px;
+  width: 1535px;
+}
+
+.section-press {
+  padding-top: 4px;
+  padding-bottom: 77px;
+  height: 350px;
+  width: 1535px;
+  background-color: #f7f8fa;
+}
+
+.container {
+  background-color: #ffffff;
+}
+
+.w-container {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 960px;
+}
+
+.small-feature-row {
+  margin-top: 71px;
+  height: 250px;
+  width: 960px;
+}
+
+.feature {
+  text-align: left;
+  width: 300px;
+}
+
+.feature-row {
+  margin-bottom: 14px;
+  height: 372px;
+  width: 960px;
+}
+
+.feature-icon {
+  margin-bottom: 15px;
+}
+
+.heading-1 {
+  font-size: 34px;
+}
+
+.img-1 {
+  border-radius: 100%;
+  text-align: center;
+  height: 371px;
+  width: 393px;
+}
+
+.paragraph {
+  color: #666c72;
+  line-height: 24px;
+}
