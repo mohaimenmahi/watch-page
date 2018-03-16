@@ -32,8 +32,7 @@
 
 .column-5 {
   text-align: center;
-  height: 371px;
-  width: 480px;
+  width: 50%;
 }
 
 .w-row {
@@ -54,7 +53,7 @@
 
 .w-col-4 {
   float: left;
-  width: 320px;
+  width: 33.33333%;
 }
 
 .main-heading {
@@ -105,14 +104,12 @@ a:hover {
   padding-bottom: 70px;
   background-color: #ffffff;
   height: 935px;
-  width: 1535px;
 }
 
 .section-press {
   padding-top: 4px;
   padding-bottom: 77px;
   height: 350px;
-  width: 1535px;
   background-color: #f7f8fa;
 }
 
@@ -128,8 +125,6 @@ a:hover {
 
 .small-feature-row {
   margin-top: 71px;
-  height: 250px;
-  width: 960px;
 }
 
 .feature {
